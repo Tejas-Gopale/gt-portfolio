@@ -21,6 +21,14 @@ ul{
   list-style-type: none;
 }
 
+.links {
+  display: block; /* Show links by default */
+}
+
+.hover-area:hover .links {
+  display: none; /* Hide links when hovering over the parent */
+}
+
 .btn{
   padding:  12px 28px;
   font-size:  1rem;

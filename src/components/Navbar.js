@@ -45,6 +45,10 @@ const Navbar = () => {
           <li>
             <Link to="/contact">Contact</Link>
           </li>
+
+          <li>
+            <Link to="/Resume">Resumes</Link>
+          </li>
         </ul>
 
         {/* hamnavagar menu  */}

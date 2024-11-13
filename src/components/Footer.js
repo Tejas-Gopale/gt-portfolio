@@ -24,7 +24,9 @@ export const Footer = () => {
                     <div className="email">
                         <h4>
                             <FaMailBulk size={20} style={{ color: "white", marginRight: "2rem" }} />
-                            tejasgopale111@gmail.com
+                           <a href="mailto: tejasgopale111@gmail.com" style={{ color: "white", textDecoration: "none" }}>
+                           tejasgopale111@gmail.com
+                           </a>
                         </h4>
                     </div>
 
@@ -36,9 +38,18 @@ export const Footer = () => {
                         Industry and Open to work for Frelancer.
                         I enjoy discussing new Projects and designs challenges.</p>
                     <div className="social">
+                    
+                    <a href="https://www.instagram.com/its_tejasgopale_0001" target="_blank" rel="noopener noreferrer">
                         <FaInstagram size={20} style={{ color: "white", marginRight: "2rem" }} />
+                    </a>
+
+                    <a href="https://github.com/Tejas-Gopale" target="_blank" rel="noopener noreferrer">
                         <FaGithub size={20} style={{ color: "white", marginRight: "2rem" }} />
+                    </a>
+
+                    <a href="https://www.linkedin.com/in/tejas-gopale-java-developer2807/" target="_blank" rel="noopener noreferrer">
                         <FaLinkedin size={20} style={{ color: "white", marginRight: "2rem" }} />
+                    </a>
                     </div>
                 </div>
             </div>
