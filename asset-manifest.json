@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/gt-portfolio/static/css/main.eacf9301.css",
+    "main.js": "/gt-portfolio/static/js/main.f35fb8e7.js",
+    "static/media/javaimage.jpg": "/gt-portfolio/static/media/javaimage.b3b779d1e15fe26e3323.jpg",
+    "static/media/project2.png": "/gt-portfolio/static/media/project2.ce59fe1c823ec29f4dd0.png",
+    "static/media/project1.png": "/gt-portfolio/static/media/project1.ede25cae0a2ed3bc3412.png",
+    "static/media/project4.png": "/gt-portfolio/static/media/project4.167aedc420d239e4a396.png",
+    "static/media/intro-bg.jpg": "/gt-portfolio/static/media/intro-bg.cf2364827d8b8a98642e.jpg",
+    "static/media/react1.jpg": "/gt-portfolio/static/media/react1.d63ca3791694cd8f6f49.jpg",
+    "static/media/react2.webp": "/gt-portfolio/static/media/react2.8aa659a4278a7132e6f4.webp",
+    "index.html": "/gt-portfolio/index.html",
+    "main.eacf9301.css.map": "/gt-portfolio/static/css/main.eacf9301.css.map",
+    "main.f35fb8e7.js.map": "/gt-portfolio/static/js/main.f35fb8e7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eacf9301.css",
+    "static/js/main.f35fb8e7.js"
+  ]
+}
