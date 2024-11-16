@@ -5,10 +5,10 @@ import pro3 from "../assects/project4.png"
 const projectCardData = [
     {
         imgsrc : pro1,
-        title :"Bhilosa Vechical Approval System",
+        title :"Bhilosa vehicle Approval System",
         text : "The VGI Approval System serves as an effective solution for managing vehicle approvals,aimed at optimizing the approval workflow. Built with Java Spring Boot, the backend utilizes Spring Data JPA to facilitate smooth communication with an SAP HANA database,The application incorporates RESTful APIs for streamlined data processing and features automated email alerts to notify specific individuals once approvals are granted. This project significantly improves operational efficiency and promotes timely communication throughout the approval process.",
         view : "http://sample.info/?insect=fireman&porter=attraction#cave",
-        source :"https:facebook.com"
+        source :"Sorry Company Not Allowed to Shear"
     },
     {
         imgsrc : pro2,

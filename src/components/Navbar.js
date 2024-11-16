@@ -46,9 +46,9 @@ const Navbar = () => {
             <Link to="/contact">Contact</Link>
           </li>
 
-          <li>
+          {/* <li>
             <Link to="/Resume">Resumes</Link>
-          </li>
+          </li> */}
         </ul>
 
         {/* hamnavagar menu  */}
